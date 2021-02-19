@@ -6,4 +6,5 @@
 	} else {
 		echo "Mayor";
 	}
+	echo "Fue realizado";
 ?>
